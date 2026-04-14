@@ -41,3 +41,10 @@ This system can be used in offices, colleges, or organizations to manage meeting
 4. Execute: 
             ./app
 
+## Output Preview
+
+### Create Schedule
+![Create](Screenshot.png)
+
+### View Schedules
+![View](output.png)
