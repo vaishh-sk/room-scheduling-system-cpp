@@ -1,0 +1,3 @@
+ Schedule ID | Room ID | Organizer | Start Time | End Time
+---------------------------------------------
+3 | 102 | SAIKUMAR | 11:00 AM | 01:00 PM
