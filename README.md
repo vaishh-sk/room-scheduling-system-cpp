@@ -33,7 +33,7 @@ A CLI-based Room Scheduling System built using C++ and STL that enables users to
 ## Use Case
 This system can be used in offices, colleges, or organizations to manage meeting rooms, labs, or shared spaces efficiently.
 
-## How to 
+## How to Run
 1. Clone the repository
 2. Open terminal in project directory
 3. Compile:
